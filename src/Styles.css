@@ -1,0 +1,30 @@
+#botaoinstall {
+    background-color: rgb(70, 154, 70);
+    margin-left: 20px;
+}
+
+#navbar{
+    padding: 10px;
+    background-color: black;
+}
+
+#botaoHeader1 {
+    background-color: rgb(58, 135, 58);
+    border-color: limegreen;
+    margin: 4px;
+}
+
+#botaoHeader2 {
+    background-color: lightgrey;
+    border-color: lightgrey;
+    margin: 4px;
+}
+
+#header{
+    background-color: black;
+    height: 500px;
+}
+
+#headerTexto{
+    padding-top: 150px;
+}
