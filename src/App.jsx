@@ -1,5 +1,7 @@
 import Navbar from './Navbar';
 import Header from './Header';
+import BarraTexto from './BarraTexto';
+import Componente1 from './Componente1'
 
 function App() {
   
@@ -8,6 +10,8 @@ function App() {
     <>
       <Navbar/>
       <Header/>
+      <BarraTexto/>
+      <Componente1/>
     </>
   )
 }
